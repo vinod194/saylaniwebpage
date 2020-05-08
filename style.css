@@ -1,0 +1,66 @@
+@import url("style2.css");
+
+
+
+button{
+    padding: 8px;
+}
+.uk{
+    margin: 10px 5px 0px 0px;
+}
+.doner{
+    margin: 10px 15px 0px 0px;
+}
+.result{
+    margin:10px 0px 0px 5px ;
+}
+
+.doingh2{
+    text-align: center;
+}
+
+
+
+
+.list li{
+
+    
+    display: inline;
+    padding: 7px;
+    border-radius: 30px;
+}
+.list li:hover{
+    background-color: rgb(36, 95, 173) ;
+    color: white;
+    
+}
+.list ul li{
+     color: black;
+}
+
+.footer{
+    height: 30px;
+    background-color: rgb(63, 63, 233);
+}
+.footer p{
+    color: white;
+    margin-left: 100px;
+}
+
+.icons.img{
+    background-color: blue;
+}
+    
+.active,.list.ul.li :hover{
+    background-color: rgb(36, 95, 173) ;
+    color: black;
+
+}
+.submanu{
+    display: none;
+}
+.list.ul.li :hover.submanu{
+    display: block;
+    position: absolute;
+    background-color: chartreuse;
+}

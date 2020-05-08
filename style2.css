@@ -1,0 +1,314 @@
+body{
+    margin: 0px;
+    padding: 0;
+}
+
+
+
+/* header divs */
+.continer{
+    height: 50px;
+    
+    display: flex;
+}
+
+.social{
+    width: 350px;
+    background-color: rgb(36, 95, 173);
+   
+}
+li{
+    list-style: none;
+}
+.para{
+    width: 600px;
+    background-color: rgb(36, 95, 173);
+}
+.buttons{
+    width: 400px;
+    background-color: rgb(36, 95, 173);
+}
+
+
+
+
+
+
+
+
+
+
+/* navigaton divs bar */
+
+.navigation{
+    height: 70px;
+    display: flex;
+    
+}
+.logo{
+    height: 70px;
+    width: 500px;
+   
+}
+.list{
+    height: 70px;
+    width: 1000px;
+}
+.logoimage{
+    margin-left: 150px;
+ height: 60px;
+ width: 200px;   
+ 
+}
+/* main image */
+.mainimage{
+    height: 600px;
+}
+.main{
+    height: 600px;
+    width: 1350px;
+}
+
+   /* moving bar */
+.moving{
+    height: 30px;
+}
+.paratwo{
+    text-align: center;
+    margin: 10px 100px 10px 100px ;
+    background-color: yellow;
+    padding: 5px;
+}
+
+/* introduction div */
+
+.introduction{
+    height: 500px;
+    
+    
+}
+.introduction img{
+    text-align: center;
+}
+.parathree{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-align: justify;
+    margin: 50px 200px 50px 200px;
+    word-spacing: 2px;
+}
+    
+  /* imformation divs */
+.imformation{
+    color: white;
+    margin-top: 30px;
+    text-align: center;
+    display: inline-flex;
+    height: 300px;
+
+}
+
+.oneimg,.twoimg,.threeimg,.fourimg{
+    margin-top: 50px;
+}
+
+.one,.two,.three,.four{
+    
+    background-color: rgb(58, 58, 226);
+}
+.one{
+    height: 300px;
+    width: 337.5px;
+}
+.two{
+    height: 300px;
+    width: 337.5px;
+}
+.three{
+    height: 300px;
+    width: 337.5px;
+}
+.four{
+    height: 300px;
+    width: 337.5px;
+}
+
+/* doing divs */
+
+.doing{
+    display: inline-flex;
+    
+
+}
+.sadqa,.walfare,.medical,.dester,.Ro,.education{
+    text-align: center;
+}
+.sadqa,.walfare,.medical,.dester,.Ro,.education{
+    box-shadow: rgb(177, 175, 175) 0px 10px 15px;
+}
+.sadqa{
+    text-align: center;
+    margin: 200px 30px 30px 30px;
+    height: 200px;
+    width: 400px;
+    
+}
+.walfare{
+    margin: 200px 10px 30px 10px;
+    height: 200px;
+    width: 400px;
+    
+}
+.medical{
+    margin: 200px 30px 30px 30px;
+    height: 200px;
+    width: 400px;
+    
+}
+
+.doing2{
+    display: inline-flex;
+}
+.dester{
+    margin: 30px 30px 100px 30px;
+    height: 200px;
+    width: 400px;
+   
+}
+.Ro{
+    margin: 30px 10px 100px 10px;
+    height: 200px;
+    width: 400px;
+    
+}
+.education{
+    margin: 30px 30px 100px 30px;
+    height: 200px;
+    width: 400px;
+   
+}
+
+.marg{
+    display: inline-flex;
+}
+
+.mission{
+    
+    height: 400px;
+    width:835px ;
+    
+
+}
+.upcoming{
+    height: 400px;
+    width: 500px;
+    background-color: orange;
+ 
+
+}
+.sub1{
+    
+    display: inline-flex;
+    
+}
+
+
+.box1{
+    margin: 50px 0px 30px 50px;    
+    height: 80px;
+    width: 350px;
+   background-color: rgb(231, 227, 227);
+}
+.box2{
+    margin: 50px 0px 30px 50px;
+    height: 80px;
+    width: 350px;
+    background-color: rgb(231, 227, 227);
+}
+
+.sub2{
+    
+    display: inline-flex;
+    
+}
+
+.mish1{
+    margin: 0px 0px 0px 50px;
+    color: rgb(103, 103, 228);
+}
+
+.box3{
+    margin: 0px 0px 0px 50px;
+    height: 80px;
+    width: 350px;
+    background-color: rgb(231, 227, 227);
+}
+.box4{
+    margin: 0px 0px 0px 50px;
+    height: 80px;
+    width: 350px;
+    background-color: rgb(231, 227, 227);
+}
+
+
+/* gallery all divs */
+
+.gallery{
+    
+    height: 500px;
+    
+}
+.frist,.second,.third,.fourth,.fifth{
+    
+    display: inline-flex;
+    height: 150px;
+    width: 200px;
+    background-color: palegoldenrod;
+}
+.frist{
+    margin: 150px 0px 0px 150px;
+}
+.second{
+    margin: 150px 0px 0px 0px;
+}
+.third{
+    margin: 150px 0px 0px 0px;
+}
+.fourth{
+    margin: 150px 0px 0px 0px;
+}
+.fifth{
+    margin: 150px 100px 0px 0px;
+}
+.gallery h1{
+    text-align: center;
+}
+
+.contact{
+    
+    color: white;
+    display: inline-flex;
+    height: 300px;
+background-color:rgb(39, 48, 56) ;
+}
+.contactline{
+    height: 300px;
+    width: 450px;
+
+}
+.uselinks{
+    height: 300px;
+    width: 435px;
+
+}
+.contacticon{
+    height: 300px;
+    width: 450px;
+
+}
+/* .frist,.second,.third,.fourth,.fifth :hover{
+    background-color: cornflowerblue;
+} */
+h3{
+    margin-left: 50px;
+}
